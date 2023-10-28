@@ -10,5 +10,5 @@ but=Button(mw,text="click me",font=("Cooper Black",20),fg="white",bg="#13fc03")
 label1.grid(row=0,column=1)
 label2.grid(row=1,column=2)
 but.grid(row=1,column=1,pady=30)
-
+#dhanush
 mw.mainloop()
